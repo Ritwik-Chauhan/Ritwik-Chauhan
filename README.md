@@ -76,11 +76,10 @@ Interested in:
 
 | Project | Description | Stack |
 |----------|-------------|-------|
-| **Network Scanner** | Tool to discover devices and open ports in a local network | Python, Socket Programming |
-| **Password Strength Checker** | Password analyzer with security scoring | Python |
-| **Security Toolkit** | Collection of cybersecurity utilities | Python, Linux |
-| **Port Scanner** | Scan target systems and analyze ports | Python |
-| **Log Analyzer** | Detect suspicious patterns from logs | Python |
+| **C.Sharang** | AI-based Incident Reporting System(Defence,Civilian)| Python, JavaScript,TypeScript,CSS |
+| **Arksh** | Privacy Preserving ZKP System,copyright:2026 | Python,JavaScript,CSS|
+| **Ai-Based Log Investigation & Reporting System** | Logs analyzer and reporter| Python, Javascript,Typescript |
+
 
 ---
 
@@ -88,7 +87,7 @@ Interested in:
 
 **Programming**
 
-Python · Java · C · JavaScript
+Python · Java · C · 
 
 **Cybersecurity**
 
