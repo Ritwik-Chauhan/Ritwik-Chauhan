@@ -35,7 +35,7 @@
 <div align="left">
 - B.Tech Computer Science student at DIT University (CGPA: 8.4/10) <br><br>
  -Passionate about cybersecurity with strong interest in ethical hacking and security concepts <br><br>
- -Research enthusiast with curiosity for emerging technologies and practical problem-solving <br><br>
+ -Research enthusiast with published papers, patents & copyright,driving curiosity for emerging technologies <br><br>
  -Ex-Intern at DEAL–DRDO <br><br>
  -Top 5 finalist in a National-Level Innovation Competition <br><br>
  -Actively engaged in SOC analysis and security learning environments <br><br>
