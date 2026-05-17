@@ -5,35 +5,44 @@
 <p><strong>Cybersecurity Student</strong> · Computer Science Student · SOC Learner</p>
 
 <p>
+<h1> Summer Intern@DEAL-DRDO</h1>
 
-<a href="YOUR_PORTFOLIO_LINK">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/>
-</a>
-
-&nbsp;
+<p align="center">
 
 <a href="www.linkedin.com/in/ritwik-chauhan-42b2b52ba">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-&nbsp;
-
-<a href="ritwik8126@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+<a href="mailto:ritwik8126@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-&nbsp;
 
 <a href="https://tryhackme.com/p/ritwikch3">
-<img src="https://img.shields.io/badge/TryHackMe-red?style=flat-square&logo=tryhackme"/>
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
 </a>
 
-&nbsp;
+<a href="https://github.com/Ritwik-Chauhan">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=Ritwik-Chauhan&color=39d353&style=flat-square&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=Ritwik-Chauhan&style=for-the-badge&color=39d353&label=Profile+Views"/>
 
 </p>
+<hr>
 
+<h2 align="Left">About Me</h2>
+
+<div align="left">
+- B.Tech Computer Science student at DIT University (CGPA: 8.4/10) <br><br>
+ -Passionate about cybersecurity with strong interest in ethical hacking and security concepts <br><br>
+ -Research enthusiast with curiosity for emerging technologies and practical problem-solving <br><br>
+ -Ex-Intern at DEAL–DRDO <br><br>
+ -Top 5 finalist in a National-Level Innovation Competition <br><br>
+ -Actively engaged in SOC analysis and security learning environments <br><br>
+ -Continuously exploring Linux, networking, Active Directory, and cybersecurity tools <br><br>
+ -Always eager to learn new technologies and build practical skills through hands-on experience
+
+</div>
 </div>
 
 ---
