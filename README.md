@@ -47,12 +47,9 @@
 
 ---
 
-## About
+## Interests
 
-Computer Science student focused on cybersecurity, ethical hacking, networking, and practical security skills. Currently building hands-on experience through labs, Linux environments, security tools, and projects.
-
-Interested in:
-
+. Currently building hands-on experience through labs, Linux environments, security tools, and projects.
 - Ethical Hacking
 - Linux
 - Network Security
@@ -83,10 +80,10 @@ Interested in:
 
 ## Security Projects
 
-| Project | Description | Stack |
-|----------|-------------|-------|
+| Project           | Description | Stack |
+|-------------------|-------------|-------|
 | **C.Sharang** | AI-based Incident Reporting System(Defence,Civilian)| Python, JavaScript,TypeScript,CSS |
-| **Arksh** | Privacy Preserving ZKP System,copyright:2026 | Python,JavaScript,CSS|
+| **Arksh © 2026 Ritwik Chauhan** | Privacy Preserving ZKP System, | Python,JavaScript,CSS|
 | **Ai-Based Log Investigation & Reporting System** | Logs analyzer and reporter| Python, Javascript,Typescript |
 
 
