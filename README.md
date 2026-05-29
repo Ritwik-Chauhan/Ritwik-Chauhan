@@ -85,6 +85,7 @@
 | **C.Sharang** | AI-based Incident Reporting System(Defence,Civilian)| Python, JavaScript,TypeScript,CSS |
 | **Arksh © 2026 Ritwik Chauhan** | Privacy Preserving ZKP System, | Python,JavaScript,CSS|
 | **Ai-Based Log Investigation & Reporting System** | Logs analyzer and reporter| Python, Javascript,Typescript |
+|**PQC-Simulator** |The simulation for the mechanism of PQC| Java,Socket Programming
 
 
 ---
